@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Salmonchik.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Salmonchik.github.io/static/js/main.19a8455c.js",
+    "static/js/787.71df535f.chunk.js": "/Salmonchik.github.io/static/js/787.71df535f.chunk.js",
+    "static/media/logo.svg": "/Salmonchik.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Salmonchik.github.io/index.html",
+    "main.073c9b0a.css.map": "/Salmonchik.github.io/static/css/main.073c9b0a.css.map",
+    "main.19a8455c.js.map": "/Salmonchik.github.io/static/js/main.19a8455c.js.map",
+    "787.71df535f.chunk.js.map": "/Salmonchik.github.io/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19a8455c.js"
+  ]
+}
